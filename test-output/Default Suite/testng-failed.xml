@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default Suite]">
+  <test name="LoggerDemo(failed)">
+    <classes>
+      <class name="com.loggerdemo.test.LoggerDemoTest3">
+        <methods>
+          <include name="main3"/>
+        </methods>
+      </class> <!-- com.loggerdemo.test.LoggerDemoTest3 -->
+    </classes>
+  </test> <!-- LoggerDemo(failed) -->
+</suite> <!-- Failed suite [Default Suite] -->
