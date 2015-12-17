@@ -1,6 +1,6 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
-<suite name="LoggerDemo" verbose="10" >
-  <test name="Method Test Cases" >
+<suite name="LoggerDemo" verbose="10">
+  <test name="Method Test Cases" preserve-order="true" >
     <classes>
        <class name="com.loggerdemo.test.LoggerDemoTest">
        </class>
